@@ -2,6 +2,10 @@
 THE STRATEGIC GENESIS PANGA EVOLUTION ($PANGA) representa el salto evolutivo definitivo dentro del ecosistema ZAARD INNOVATION. Nacido de la necesidad de un activo de alta velocidad y grado profesional, PANGA ha sido diseñado exclusivamente para el trader estratégico que exige precisión técnica y dominio del mercado.
 ---
 ---
+### 🚀 DOWNLOAD THE OFFICIAL WHITEPAPER
+For a deep dive into the protocol and the future of the ecosystem, read our manifesto:
+
+👉 **[CLICK HERE TO READ THE PANGA WHITE PAPER](https://docs.google.com/document/d/1S3FtCel1eAPLWeFHbmwuh9CSuoSK83m_exUOxykj2x0/edit?usp=drivesdk)** 📑
 # 🦅 PANGA EVOLUTION: THE SUPREME TRADING MANIFESTO
 ## THE PINNACLE OF ACTIVE PROFIT & ON-CHAIN EFFICIENCY
 
