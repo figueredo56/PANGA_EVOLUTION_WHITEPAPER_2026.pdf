@@ -14,6 +14,8 @@ For a deep dive into the protocol and the future of the ecosystem, read our mani
 
 Our vision is to create a majestic financial environment where speed meets intelligence. Under the leadership of its creator, the **Lead Developer (Panga)**, this protocol has been forged to redefine the standards of decentralized finance on the Binance Smart Chain.
 
+![Panga Evolution - The Dragon Effect](https://raw.githubusercontent.com/figueredo56/PANGA_EVOLUTION_WHITEPAPER_2026.pdf/refs/heads/main/42%20sin%20t%C3%ADtulo_20260505005433.png)
+
 ---
 
 ### 💎 TECHNICAL ARCHITECTURE & ELITE SCARCITY
