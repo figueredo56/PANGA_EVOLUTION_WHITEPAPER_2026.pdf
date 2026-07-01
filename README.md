@@ -23,10 +23,10 @@ Our vision is to create a majestic financial environment where speed meets intel
 PANGA is built on a foundation of absolute scarcity and transparency. Every technical parameter has been optimized to ensure value appreciation and long-term sustainability.
 
 *   **Official Name:** PANGA EVOLUTION.
-*   **Maximum Scarcity:** A strictly limited total supply of **90,000.00 $PANGA**.
+*   **Maximum Scarcity:** A strictly limited total supply of **200.00 $PANGA**.
 *   **Precision Trading:** 18 decimals for micro-precision maneuvers in the market.
-*   **Verified Contract:** `0xef516ded4cca45207d21056faa1910c2930c96b5`.
-*   **Deflationary Core:** A radical **10% permanent token burn** has been executed to ensure constant upward pressure on the asset's value.
+*   **Verified Contract:** `0x6be4672bbe065356b9beb661cf2a3356664653d0`.
+*   **Deflationary Core:** A radical **10 permanent token burn** has been executed to ensure constant upward pressure on the asset's value.
 
 ---
 
