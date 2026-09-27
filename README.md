@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" alt="PANGA Logo" width="220"/>
+  </a>
+  <br>
+  <p>🔗 <strong>Enlace directo de la imagen:</strong><br>
+  <a href="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" target="_blank">https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg</a></p>
+</div>
+
 # PANGA_EVOLUTION_WHITEPAPER_2026.pdf
 THE STRATEGIC GENESIS PANGA EVOLUTION ($PANGA) representa el salto evolutivo definitivo dentro del ecosistema ZAARD INNOVATION. Nacido de la necesidad de un activo de alta velocidad y grado profesional, PANGA ha sido diseñado exclusivamente para el trader estratégico que exige precisión técnica y dominio del mercado.
 
@@ -25,7 +34,7 @@ PANGA is built on a foundation of absolute scarcity and transparency. Every tech
 *   **Official Name:** PANGA EVOLUTION.
 *   **Maximum Scarcity:** A strictly limited total supply of **200.00 $PANGA**.
 *   **Precision Trading:** 18 decimals for micro-precision maneuvers in the market.
-*   **Verified Contract:** `0x6be4672bbe065356b9beb661cf2a3356664653d0`.
+*   **Verified Contract:** `0x53ec44f662075d4771ccd4fefd19b5a3a2c05823`.
 *   **Deflationary Core:** A radical **10 permanent token burn** has been executed to ensure constant upward pressure on the asset's value.
 
 ---
@@ -38,7 +47,7 @@ PANGA se construye sobre una base de escasez absoluta y transparencia total. Cad
 
 Official Name: PANGA EVOLUTION.
 
-Maximum Scarcity: Un suministro total estrictamente limitado a 90,000.00 $PANGA.
+Maximum Scarcity: Un suministro total estrictamente limitado a 850,000.00 $PANGA.
 
 Precision Trading: 18 decimales para maniobras de micro-precisión en el mercado.
 
