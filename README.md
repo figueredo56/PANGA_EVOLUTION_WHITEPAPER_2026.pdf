@@ -34,7 +34,7 @@ PANGA is built on a foundation of absolute scarcity and transparency. Every tech
 *   **Official Name:** PANGA EVOLUTION.
 *   **Maximum Scarcity:** A strictly limited total supply of **1000000.00 $PANGA**.
 *   **Precision Trading:** 18 decimals for micro-precision maneuvers in the market.
-*   **Verified Contract:** `0x53ec44f662075d4771ccd4fefd19b5a3a2c05823`.
+*   **Verified Contract:** `0x6a7cc7d5749e028c8f78f29c1d6ac8eda0eefad2`.
 *   **Deflationary Core:** A radical **10 permanent token burn** has been executed to ensure constant upward pressure on the asset's value.
 
 ---
